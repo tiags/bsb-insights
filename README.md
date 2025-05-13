@@ -25,7 +25,7 @@ This repository contains two key components:
 
 - Over 50 features scraped daily
 - Modular functions for easy testing and extension
-- > 100 features and calculations used for modelling
+- Over 100 features and calculations used for modelling
 - Outputs predictions + entry/exit strategy for Tableau ingestion
 - Dual-target modeling (bullish + bearish)
 - Grid-searched RF & XGBoost classifiers with calibrated probabilities
